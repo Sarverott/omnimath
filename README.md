@@ -1,6 +1,6 @@
 # OmniMath - Dogmat Technomantycznej Matematyki
 > dawniej prooftool - Sett Sarverott @ 2022-2025
-###### objęte licencją [GNU GPL v3]("./LICENSE")
+###### objęte licencją [GNU GPL v3](./LICENSE)
 argumentaryzacja matematyczna w propozycji alternatywnej nowej notacji dokumentowo-dowodowej
 
 ---
